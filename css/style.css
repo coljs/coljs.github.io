@@ -1,33 +1,55 @@
 html, body {
   font-weight: 100;
   color: #333;
-  background: #fcfcfc
+  background: #fcfcfc;
+  line-height: 1.4;
 }
 
 .logo {
   background: url(/img/logo.png) no-repeat left top;
-  width: 512px;
-  height: 256px;
+  width: 80vw;
+  height: 40vw;
+  max-width: 512px;
+  max-height: 256px;
   background-size: 100%;
-  margin: 3rem auto 1.4rem;
+  margin: 3rem auto 1.2rem;
   overflow: hidden;
   text-indent: -99999em;
 }
 
 h1 {
   text-align: center;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   font-weight: 100;
   color: #666;
   margin-bottom: 4rem;
+  -webkit-font-smoothing: antialiased;
 }
 
 .content {
   max-width: 600px;
   margin: auto;
+  padding: 0 2rem;
 }
 
 h2 {
-  font-weight: normal;
-  margin-top: 3rem
+  font-weight: 100;
+  margin-top: 4rem;
+}
+
+a {
+  color: #0059e8;
+  font-weight: 300;
+  text-decoration: none;
+}
+
+li {
+  margin: 0.4rem 0;
+}
+
+footer {
+  text-align: center;
+  margin-top: 5rem;
+  margin-bottom: 2rem;
+  font-size: 0.9rem;
 }
