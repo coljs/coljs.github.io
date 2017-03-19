@@ -8,7 +8,7 @@ ColJS es el grupo de comunidades de JavaScript de Colombia y hace parte de [Colo
 
 ## ¿Cómo crear una nueva comunidad?
 
-Si deseas crear una nueva comunidad de JavaScript escíbenos a: [hola@coljs.org](mailto:hola@coljs.org) y nosotros te guiaremos y ayudaremos con tu primer evento (las empanadas van por nuestra cuenta).
+Si deseas crear una nueva comunidad de JavaScript escríbenos a: [hola@coljs.org](mailto:hola@coljs.org) y nosotros te guiaremos y ayudaremos con tu primer evento (las empanadas van por nuestra cuenta).
 
 ## Contacto
 
