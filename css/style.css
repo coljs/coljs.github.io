@@ -1,0 +1,33 @@
+html, body {
+  font-weight: 100;
+  color: #333;
+  background: #fcfcfc
+}
+
+.logo {
+  background: url(/img/logo.png) no-repeat left top;
+  width: 512px;
+  height: 256px;
+  background-size: 100%;
+  margin: 3rem auto 1.4rem;
+  overflow: hidden;
+  text-indent: -99999em;
+}
+
+h1 {
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 100;
+  color: #666;
+  margin-bottom: 4rem;
+}
+
+.content {
+  max-width: 600px;
+  margin: auto;
+}
+
+h2 {
+  font-weight: normal;
+  margin-top: 3rem
+}
